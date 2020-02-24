@@ -6,7 +6,7 @@ The immediate audience for this document is so called "third party" distributors
 
 Other potential audience could include:
 - academics looking for resources to support research
-- regulatory agencies at state or local level looking for best available LCI
+- regulatory agencies at federal, state, or local level looking for best available LCI
 - independent consultants
 - students
 - ???
@@ -14,10 +14,17 @@ Other potential audience could include:
 (note: is there a class of user this isn't pertinant to?  Is this just a general Terms of Use?)
 
 ## Use Cases
+### LCA^2 data exchange (perhaps all third party vendor?)
+Fed Commons LCI are used as components of a Canadian national inventory, prepared by CIRAIG and published by EcoInvent.  Questions that arise include:
+- How is provenance to the Fed Commons, and/or the agency owner communicated?
+- What kinds of modifications are permissable to Fed Commons data to make them compliant with EcoInvent, while still "being" fed commons data?
+- How can an end user identify, inspect, and interpret the differences between Fed Commons data via EcoInvent and Fed Commons data via lcacommons.gov?
+- How can the Commons / end users determine the quanitiative differences between versions of data (if any) and how should they be reconciled?
+- Two-way exchange.  How can the Fed Commons support North American LCI (particularly LCI of traded goods) on the lcacommons.gov?  considering EcoInvent datasets are behind a paywall?
 
 ## Outline / Areas of Concern
 
-- Attribution of datasets to origniating agency
+- Attribution of datasets to originating agency
   - proper agency/actor citation
   - limitations to data modification.  What changes are permissable while still being attributable to orignal agency?
 - Required documentation of changes
